@@ -1,0 +1,71 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetJava:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="ProjetJava.jar">
+      <element id="module-output" name="ProjetJava" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.31.1/opencensus-api-0.31.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/5.0.1/mongodb-driver-core-5.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/opencensus/opencensus-contrib-http-util/0.31.1/opencensus-contrib-http-util-0.31.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/bson-record-codec/5.0.1/bson-record-codec-5.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/http-client/google-http-client/1.44.1/google-http-client-1.44.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/grpc/grpc-api/1.60.1/grpc-api-1.60.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/33.2.0-jre/guava-33.2.0-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/grpc/grpc-context/1.60.1/grpc-context-1.60.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/auto/value/auto-value-annotations/1.10.4/auto-value-annotations-1.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-sync/5.0.1/mongodb-driver-sync-5.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.12.14/mongo-java-driver-3.12.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/auth/google-auth-library-oauth2-http/1.23.0/google-auth-library-oauth2-http-1.23.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/apis/google-api-services-oauth2/v2-rev157-1.25.0/google-api-services-oauth2-v2-rev157-1.25.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/http-client/google-http-client-gson/1.44.1/google-http-client-gson-1.44.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/bson/5.0.1/bson-5.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/auth/google-auth-library-credentials/1.23.0/google-auth-library-credentials-1.23.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/api-client/google-api-client/2.4.1/google-api-client-2.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/http-client/google-http-client-apache-v2/1.44.1/google-http-client-apache-v2-1.44.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/oauth-client/google-oauth-client/1.35.0/google-oauth-client-1.35.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/toedter/jcalendar/1.4/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: com.google.api-client:google-api-client:2.4.1" />
+      <element id="library" level="project" name="Maven: com.google.apis:google-api-services-oauth2:v2-rev157-1.25.0" />
+      <element id="library" level="project" name="Maven: com.google.auth:google-auth-library-credentials:1.23.0" />
+      <element id="library" level="project" name="Maven: com.google.auth:google-auth-library-oauth2-http:1.23.0" />
+      <element id="library" level="project" name="Maven: com.google.auto.value:auto-value-annotations:1.10.4" />
+      <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.2" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.10.1" />
+      <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.26.1" />
+      <element id="library" level="project" name="Maven: com.google.guava:failureaccess:1.0.2" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:33.2.0-jre" />
+      <element id="library" level="project" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+      <element id="library" level="project" name="Maven: com.google.http-client:google-http-client-apache-v2:1.44.1" />
+      <element id="library" level="project" name="Maven: com.google.http-client:google-http-client-gson:1.44.1" />
+      <element id="library" level="project" name="Maven: com.google.http-client:google-http-client:1.44.1" />
+      <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:3.0.0" />
+      <element id="library" level="project" name="Maven: com.google.oauth-client:google-oauth-client:1.35.0" />
+      <element id="library" level="project" name="Maven: com.toedter:jcalendar:1.4" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.16.1" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: io.grpc:grpc-api:1.60.1" />
+      <element id="library" level="project" name="Maven: io.grpc:grpc-context:1.60.1" />
+      <element id="library" level="project" name="Maven: io.opencensus:opencensus-api:0.31.1" />
+      <element id="library" level="project" name="Maven: io.opencensus:opencensus-contrib-http-util:0.31.1" />
+      <element id="library" level="project" name="Maven: junit:junit:3.8.1" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.14" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.16" />
+      <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:3.42.0" />
+      <element id="library" level="project" name="Maven: org.mongodb:bson-record-codec:5.0.1" />
+      <element id="library" level="project" name="Maven: org.mongodb:bson:5.0.1" />
+      <element id="library" level="project" name="Maven: org.mongodb:mongo-java-driver:3.12.14" />
+      <element id="library" level="project" name="Maven: org.mongodb:mongodb-driver-core:5.0.1" />
+      <element id="library" level="project" name="Maven: org.mongodb:mongodb-driver-sync:5.0.1" />
+    </root>
+  </artifact>
+</component>
