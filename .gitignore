@@ -1,0 +1,22 @@
+# Fichiers de configuration sensibles
+*client_secret*
+*credentials*
+*.json
+*.key
+*.pem
+
+# Fichiers de compilation Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Dossiers de build
+/target/
+/build/
+/bin/
+/out/
+
+# Environnements
+.env
+.config
